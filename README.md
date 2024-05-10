@@ -35,7 +35,7 @@ This project aims to analyze customer purchase data to identify distinct custome
 - Identifying top-selling products within each cluster.
 - Suggesting top products to individual customers based on their cluster, excluding items they've already purchased.
 
-##@ Target Audience
+### Target Audience
 - Retailers: Optimize marketing strategies and product placement.
 - E-commerce Businesses: Enhance customer experience and increase conversions.
 - Data analysts: Interested in customer segmentation and recommendation techniques.
